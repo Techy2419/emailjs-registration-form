@@ -84,8 +84,7 @@ You can get these values from your EmailJS Dashboard.
 
 ## 📌 Live Demo
 
-🔗 [View Live on Vercel](https://romil-patel.vercel.app)  
-*(Replace the link if deployed elsewhere)*
+🔗 [View Live on Vercel]([https://romil-patel.vercel.app](https://emailjs-registration-form.vercel.app/))  
 
 **Romil Patel**  
 📧 rp5089601@gmail.com  
